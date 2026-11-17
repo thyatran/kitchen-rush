@@ -1,0 +1,5 @@
+{
+  "Burger": [{"name": "bun", "state": "raw"}, {"name": "patty", "state": "cooked"}],
+  "Salad": [{"name": "lettuce", "state": "chopped"}, {"name": "tomato", "state": "chopped"}],
+  "Soup": [{"name": "tomato", "state": "cooked"}, {"name": "mushroom", "state": "cooked"}]
+}

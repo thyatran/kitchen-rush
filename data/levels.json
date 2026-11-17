@@ -1,0 +1,4 @@
+[
+  {"duration": 120, "order_interval": 30, "order_time": 90, "target": 100, "reward": 100, "penalty": 20},
+  {"duration": 120, "order_interval": 22, "order_time": 70, "target": 200, "reward": 100, "penalty": 20}
+]

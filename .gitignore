@@ -16,3 +16,5 @@ env/
 
 # Python testing/cache
 .pytest_cache/
+# Local player profiles
+data/players.db*
